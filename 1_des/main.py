@@ -27,6 +27,7 @@ def main():
     print(f"Message crypté : {encrypted_message}")
     print(f"Message décrypté : {decrypted_message}")
 
+
 if __name__ == '__main__':
     main()
 
